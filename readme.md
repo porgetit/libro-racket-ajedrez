@@ -22,29 +22,29 @@ Este repositorio está orientado a albergar el código fuente del libro, el cuá
 
 ### Borrador 1
 
-* [ ] Capitulo 1: Fundamentos
-    * [ ] Primeros pasos
-    * [ ] Programas, expresiones y valores
-    * [ ] Definiciones
-    * [ ] Algunas notas de estilo
-    * [ ] Expresiones condicionales
-    * [ ] Recursividad
-    * [ ] Datos compuestos
-    * [ ] Módulos
-    * [ ] Pruebas
-* [ ] Capítulo 2: Programación funcional pura
-    * [ ] La función lambda
-    * [ ] Funciones de orden superior
-    * [ ] Variables locales
-    * [ ] Coincidencia de patrones
-* [ ] Capítulo 3: Programación funcional impura
-    * [ ] Entrada y salida
-    * [ ] Mutación
-* [ ] Capítulo 4: Racket avanzado
-    * [ ] Interaciones y comprensiones
-    * [ ] Expresiones regulares
-    * [ ] Excepciones
 
+* [ ]  Libro 1: Fundamentos    
+    * [ ]  Capítulo 1: Primeros pasos
+    * [ ]  Capítulo 2: Programas, expresiones y valores
+    * [ ]  Capítulo 3: Definiciones
+    * [ ]  Capítulo 4: Algunas notas de estilo
+    * [ ]  Capítulo 5: Expresiones condicionales
+    * [ ]  Capítulo 6: Recursividad
+    * [ ]  Capítulo 7: Datos compuestos
+    * [ ]  Capítulo 8: Módulos
+    * [ ]  Capítulo 9: Pruebas    
+* [ ]  Libro 2: La programación funcional pura    
+    * [ ]  Capítulo 10: La función lambda
+    * [ ]  Capítulo 11: Funciones de orden superior
+    * [ ]  Capítulo 12: Variables locales
+    * [ ]  Capítulo 13: Coincidencia de patrones    
+* [ ]  Libro 3: La programación funcional impura    
+    * [ ]  Capítulo 14: Entrada y salida
+    * [ ]  Capítulo 15: Mutación
+* [ ]  Libro 4: Racket avanzado
+    * [ ]  Iteraciones y comprensiones
+    * [ ]  Expresiones regulares
+    * [ ]  Excepciones
 
 ## Historial
 

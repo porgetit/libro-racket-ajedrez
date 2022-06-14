@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.1)  14 JUN 2022 10:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.1)  14 JUN 2022 11:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Kevin/Documents/Estudio/Personal/Investigación/Una historia La programación/codigo fuente/Capitulo 1/5 Expresiones condicionales/main.tex"
-(c:/Users/Kevin/Documents/Estudio/Personal/Investigación/Una historia La programación/codigo fuente/Capitulo 1/5 Expresiones condicionales/main.tex
+**"c:/Users/Kevin/Documents/Estudio/Personal/Investigación/Libro Una historia La programación/Libro/Contenido/main.tex"
+(c:/Users/Kevin/Documents/Estudio/Personal/Investigación/Libro Una historia La programación/Libro/Contenido/main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-05-04> (D:\Users\Kevin\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -53,19 +53,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 10.
  [1
 
-{C:/Users/Kevin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4] [5] (main.aux) ) 
+{C:/Users/Kevin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 475 strings out of 478614
- 10132 string characters out of 2843123
- 305430 words of memory out of 3000000
- 18703 multiletter control sequences out of 15000+600000
- 470769 words of font info for 33 fonts, out of 8000000 for 9000
+ 476 strings out of 478614
+ 9932 string characters out of 2843123
+ 303420 words of memory out of 3000000
+ 18702 multiletter control sequences out of 15000+600000
+ 471413 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 33i,6n,38p,335b,191s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<D:/Users/Kevin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Users/Kevin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (5 pages, 44241 bytes).
+ 33i,6n,38p,259b,193s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Kevin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><D:/Users/Kevin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Users/Kevin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Users/Kevin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on main.pdf (2 pages, 39856 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
+ 29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

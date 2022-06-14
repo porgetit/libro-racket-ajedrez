@@ -1,6 +1,6 @@
-PWD c:\Users\Kevin\Documents\Estudio\Personal\Investigación\Una historia La programación\codigo fuente\Capitulo 1\5 Expresiones condicionales
+PWD c:\Users\Kevin\Documents\Estudio\Personal\Investigación\Libro Una historia La programación\Libro\Contenido
 INPUT C:\Users\Kevin\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Kevin\Documents\Estudio\Personal\Investigación\Una historia La programación\codigo fuente\Capitulo 1\5 Expresiones condicionales\main.tex
+INPUT c:\Users\Kevin\Documents\Estudio\Personal\Investigación\Libro Una historia La programación\Libro\Contenido\main.tex
 OUTPUT main.log
 INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -48,9 +48,15 @@ INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
 INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
+INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 OUTPUT main.pdf
 INPUT C:\Users\Kevin\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT main.aux
+INPUT C:\Users\Kevin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\Kevin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
